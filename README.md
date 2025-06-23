@@ -1,0 +1,2 @@
+# EduManager
+Gestión escolar
